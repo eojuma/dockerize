@@ -8,6 +8,4 @@ FROM alpine:latest
 WORKDIR /app
 COPY --from=build/app/ascii-art-web
 EXPOSE 8080
-CMD["./ascii-art-web"]
-
-CMD ["echo", "hello world, I'm Evans"]
+CMD ["./ascii-art-web"]
