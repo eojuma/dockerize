@@ -15,7 +15,7 @@ A Go web application that generates ASCII art from text, now containerized with 
 
 
 # Clone the repository
-git clone https://[(https://github.com/eojuma/dockerize.git)]
+git clone https://[https://github.com/eojuma/dockerize.git]
 cd ascii-art-dockerize
 
 # Build the Docker image
